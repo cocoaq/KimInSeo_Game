@@ -37,7 +37,6 @@ public class Run {
 		}else {
 			gm.boxSelect(num, openDoor);
 		}
-		
 		}while(true);
 	}
 
